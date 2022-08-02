@@ -20,7 +20,7 @@ src:url(//cdn.jsdelivr.net/gh/hizyw/fonts@master/LXGWZhenKai.woff2) format('woff
 
 替换*为下面的字体名称
 
-//cdn.jsdelivr.net/gh/hizyw/fonts@master/<font color=red>*<red>.woff2
+//cdn.jsdelivr.net/gh/hizyw/web-fonts@master/<font color=red>*<red>.woff2
 
 - LXGWZhenKai.woff2
 - LXGWWenKai-Regular.subset.woff2
